@@ -49,7 +49,7 @@
             ></el-input>
           </el-form-item>
           <el-form-item>
-            <el-button type="primary" @click="userRegister">完成注册</el-button>
+            <el-button type="danger" @click="userRegister">完成注册</el-button>
           </el-form-item>
         </el-form>
       </div>
